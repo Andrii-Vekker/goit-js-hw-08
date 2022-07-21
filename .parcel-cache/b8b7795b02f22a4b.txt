@@ -1,4 +1,4 @@
-4783
+4788
 49C:\Users\a.vekker\Desktop\js\goit-js-hw-08\assets133027719037735172 1
 95C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb\node_modules\node-addon-api\napi.h133027719623316215 0
 83C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\terser\lib\equivalent-to.js133027719640465586 0
@@ -22,7 +22,7 @@
 90C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\watcher\src\unix\legacy.cc133027719622866498 0
 87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\regions\TW.js133027719678092199 0
 75C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\simplelightbox\demo133027719622916467 1
-61C:\Users\a.vekker\Desktop\js\goit-js-hw-08\src\js\02-video.js133027874142286764 0
+61C:\Users\a.vekker\Desktop\js\goit-js-hw-08\src\js\02-video.js133028576079996465 0
 111C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb\node_modules\node-addon-api\tools\eslint-format.js133027719626174443 0
 63C:\Users\a.vekker\Desktop\js\goit-js-hw-08\src\js\01-gallery.js133027719037808194 0
 97C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\ClassSelector.js133027719625754707 0
@@ -38,6 +38,13 @@
 73C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\is-glob\README.md133027719607822274 0
 87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\regions\LU.js133027719671496305 0
 76C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\yaml\types\binary.js133027719606762926 0
+76C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\fill-range\README.md133027719607772299 0
+89C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\domelementtype\lib\index.d.ts.map133027719613992009 0
+54C:\Users\a.vekker\Desktop\js\goit-js-hw-08\.posthtmlrc133027719037549320 0
+87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\nan\nan_persistent_pre_12_inl.h133027719626014545 0
+60C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\csso133027719648330680 1
+103C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\rtcpeerconnection.js133027719674914167 0
+102C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js133027719603245113 0
 91C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\domelementtype\lib\esm\package.json133027719609481243 0
 90C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\dist\ExplorerSync.d.ts133027719642214483 0
 87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\dom-serializer\lib\esm\index.js133027719609501223 0
@@ -53,13 +60,6 @@
 81C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\domutils\lib\helpers.d.ts133027719627993309 0
 102C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-first-letter.js133027719662831670 0
 75C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\yaml\parse-cst.d.ts133027719649499961 0
-60C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\csso133027719648330680 1
-103C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\rtcpeerconnection.js133027719674914167 0
-102C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js133027719603245113 0
-76C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\fill-range\README.md133027719607772299 0
-89C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\domelementtype\lib\index.d.ts.map133027719613992009 0
-54C:\Users\a.vekker\Desktop\js\goit-js-hw-08\.posthtmlrc133027719037549320 0
-87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\nan\nan_persistent_pre_12_inl.h133027719626014545 0
 83C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\domutils\lib\feeds.d.ts.map133027719622436764 0
 87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\regions\DE.js133027719665909764 0
 65C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\callsites133027719609091478 1
@@ -99,7 +99,7 @@
 98C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\terser\node_modules\commander\CHANGELOG.md133027719608122081 0
 98C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\invalid-targets133027719664090892 1
 96C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\diagnostic\test\markdown.test.js133027719609671128 0
-47C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist133027979212826056 1
+47C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist133028717403614855 1
 91C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\main-mjs133027719664300815 1
 105C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\simplelightbox\dist\simple-lightbox.jquery.min.js133027719659743592 0
 55C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules133027720689939164 1
@@ -117,6 +117,8 @@
 83C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\utils\src\schema.js133027719651019010 0
 105C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest2.c133027719651468732 0
 65C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\is-number133027719606872867 1
+62C:\Users\a.vekker\Desktop\js\goit-js-hw-08\src\01-gallery.html133027719037765150 0
+84C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\svgo\plugins\inlineStyles.js133027719639096407 0
 82C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\react-refresh\package.json133027719616810254 0
 67C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig133027719639995859 1
 99C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-image-set.js133027719663521248 0
@@ -139,31 +141,6 @@
 73C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb\package.json133027719659773579 0
 87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\yaml\browser\types\timestamp.js133027719644672953 0
 50C:\Users\a.vekker\Desktop\js\goit-js-hw-08\src\css133027719037798206 1
-86C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\svgo\plugins\preset-default.js133027719644423106 0
-81C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\csso\lib\replace\Value.js133027719647381272 0
-96C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133027719599327546 1
-87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\regions\HR.js133027719668937897 0
-52C:\Users\a.vekker\Desktop\js\goit-js-hw-08\README.md133027719037569307 0
-111C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\nested\index.js133027719639416221 0
-89C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\mdn-data\css\syntaxes.schema.json133027719634559244 0
-101C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\dist\module.js.map133027719637047682 0
-70C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\ordered-binary133027719617130063 1
-83C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\workers\src\process133027719636508020 1
-55C:\Users\a.vekker\Desktop\js\goit-js-hw-08\README.pl.md133027719037579301 0
-76C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\callsites\index.d.ts133027719601526198 0
-72C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\v8-compile-cache133027719609291352 1
-86C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@types\parse-json\package.json133027719607532447 0
-82C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\core\lib\Parcel.js133027719656535578 0
-95C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture133027719659323853 1
-70C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\terser\main.js133027719644513060 0
-87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\regions\TD.js133027719676633120 0
-98C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\fast-glob\out\providers\filters\error.d.ts133027719643213858 0
-76C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\node-addon-api\tools133027719629172580 1
-112C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV2\files133027719646591758 1
-102C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\getcomputedstyle.js133027719668238343 0
-55C:\Users\a.vekker\Desktop\js\goit-js-hw-08\README.uk.md133027719037579301 0
-62C:\Users\a.vekker\Desktop\js\goit-js-hw-08\src\01-gallery.html133027719037765150 0
-84C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\svgo\plugins\inlineStyles.js133027719639096407 0
 73C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\terser\lib\cli.js133027719629942109 0
 112C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@swc\helpers\src\_class_static_private_field_spec_set.js133027719658394429 0
 78C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\picomatch\lib\parse.js133027719608841637 0
@@ -181,7 +158,7 @@
 73C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\yaml\browser\dist133027719648020892 1
 84C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\terser\lib\compress\index.js133027719642864075 0
 63C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\is-glob133027719606952815 1
-64C:\Users\a.vekker\Desktop\js\goit-js-hw-08\src\js\03-feedback.js133027979211764648 0
+64C:\Users\a.vekker\Desktop\js\goit-js-hw-08\src\js\03-feedback.js133028716595775382 0
 102C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\transformer-postcss\src\loadPlugins.js133027719613762152 0
 73C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@lezer\lr\LICENSE133027719599157648 0
 78C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\compressor-raw133027719608102097 1
@@ -209,6 +186,7 @@
 87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\regions\PM.js133027719673974753 0
 89C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\postcss-value-parser\lib\index.js133027719602785391 0
 92C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\package-manager\src\types.js133027719641404988 0
+75C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\03-feedback.26067de3.js.map133028717402589586 0
 67C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@jridgewell133027719562109779 1
 66C:\Users\a.vekker\Desktop\js\goit-js-hw-08\src\css\03-feedback.css133027719037788178 0
 92C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\README.md133027719639456192 0
@@ -277,6 +255,15 @@
 69C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\yaml\util.mjs133027719649100217 0
 64C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\anymatch133027719609021532 1
 114C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\posthtml-include\node_modules\posthtml-parser\package.json133027719610250766 0
+88C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\term-size\vendor\macos\.DS_Store133027719603614890 0
+85C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\packager-html\LICENSE133027719598553730 0
+72C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\nan\CHANGELOG.md133027719640805365 0
+76C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\yaml\browser\util.js133027719646711683 0
+103C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\env-dep133027719655696111 1
+67C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\detect-libc133027719611340086 1
+78C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\picomatch\package.json133027719615451100 0
+114C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm133027719628123227 1
+98C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\posthtml\node_modules\posthtml-parser\dist133027719614231862 1
 81C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\type-fest\ts41\index.d.ts133027719626903985 0
 65C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\nan\nan.h133027719629782203 0
 145C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules133027719628363093 1
@@ -318,15 +305,6 @@
 86C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\commander\package-support.json133027719607512460 0
 64C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\css-what133027719627623539 1
 82C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\queue-microtask\index.d.ts133027719609301352 0
-88C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\term-size\vendor\macos\.DS_Store133027719603614890 0
-85C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\packager-html\LICENSE133027719598553730 0
-72C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\nan\CHANGELOG.md133027719640805365 0
-76C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\yaml\browser\util.js133027719646711683 0
-103C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\env-dep133027719655696111 1
-67C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\detect-libc133027719611340086 1
-78C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\picomatch\package.json133027719615451100 0
-114C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm133027719628123227 1
-98C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\posthtml\node_modules\posthtml-parser\dist133027719614231862 1
 112C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133027719626714109 0
 94C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\temporal.js133027719676693066 0
 77C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\svgo\lib\svgo-node.js133027719652278223 0
@@ -461,8 +439,8 @@
 85C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\json-parse-even-better-errors133027719608961561 1
 84C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\watcher\src\watchman133027719639156371 1
 96C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\posthtml-parser\dist\location-tracker.js133027719607672364 0
-76C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\stable\stable.min.js133027719609301352 0
 61C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\json5133027719624785307 1
+76C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\stable\stable.min.js133027719609301352 0
 86C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb-win32-x64\node.abi83.node133027719628303129 0
 78C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\svgo\lib\svgo\tools.js133027719654546842 0
 75C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\fclone\package.json133027719598373832 0
@@ -555,6 +533,11 @@
 90C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\domutils\lib\manipulation.d.ts.map133027719624955209 0
 72C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\fastq\example.js133027719605093962 0
 94C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\utility-types\dist\mapped-types.js.map133027719622076986 0
+111C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\nested\index.js133027719639416221 0
+89C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\mdn-data\css\syntaxes.schema.json133027719634559244 0
+101C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\dist\module.js.map133027719637047682 0
+70C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\ordered-binary133027719617130063 1
+83C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\workers\src\process133027719636508020 1
 75C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\terser\lib\compress133027719648850377 1
 72C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\posthtml\license133027719598243908 0
 122C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias133027719656605548 1
@@ -667,6 +650,12 @@
 106C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@swc\helpers\src\_unsupported_iterable_to_array.js133027719663151475 0
 61C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\tslib133027719622386797 1
 155C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down\foo\bar\baz133027719657834775 1
+72C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\v8-compile-cache133027719609291352 1
+86C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@types\parse-json\package.json133027719607532447 0
+82C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\core\lib\Parcel.js133027719656535578 0
+95C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture133027719659323853 1
+70C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\terser\main.js133027719644513060 0
+87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\regions\TD.js133027719676633120 0
 83C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\normalize-path\package.json133027719598273895 0
 90C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\xxhash-wasm\cjs\xxhash-wasm.js.map133027719611210165 0
 75C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\picocolors\types.ts133027719612772765 0
@@ -1037,13 +1026,13 @@
 106C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\transformer-babel\lib\remapAstLocations.js133027719625824659 0
 92C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Brackets.js133027719622616657 0
 94C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\type-fest\source\iterable-element.d.ts133027719627333727 0
-72C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\svgo\lib\svgo.js133027719654346941 0
-127C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js133027719607662376 0
-104C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\source-map-support\browser-source-map-support.js133027719600506808 0
 94C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\Identifier.js133027719649459980 0
 105C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\background-img-opts.js133027719648060843 0
 91C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\type-fest\source\literal-union.d.ts133027719628213173 0
 100C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\watcher\src\macos\FSEventsBackend.cc133027719614841483 0
+127C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js133027719607662376 0
+104C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\source-map-support\browser-source-map-support.js133027719600506808 0
+72C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\svgo\lib\svgo.js133027719654346941 0
 83C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\type-fest\source\merge.d.ts133027719629092638 0
 92C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\watcher\prebuilds\darwin-x64133027719644083319 1
 111C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\watcher\prebuilds\linux-x64\node.napi.musl.node133027719651518707 0
@@ -1087,6 +1076,7 @@
 96C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\dom-serializer\lib\esm\foreignNames.d.ts133027719624315609 0
 88C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@swc\helpers\lib\_ts_decorate.js133027719653297596 0
 131C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133027719652098344 0
+75C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\03-feedback.476540ec.js.map133028717402579593 0
 99C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\web-animation.js133027719679101568 0
 97C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\type-fest\source\require-exactly-one.d.ts133027719640655444 0
 70C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\fs\src133027719623066370 1
@@ -1202,6 +1192,7 @@
 105C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@jridgewell\trace-mapping\dist\types\any-map.d.ts133027719616480467 0
 83C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\svgo\plugins\mergeStyles.js133027719640925284 0
 103C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@swc\helpers\src\_initializer_warning_helper.js133027719659903500 0
+71C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\03-feedback.476540ec.js133028717402399706 0
 92C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\css-tree\lib\syntax\config\parser.js133027719657025279 0
 94C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\terser\lib\utils\first_in_statement.js133027719641554888 0
 130C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133027719609851019 0
@@ -1285,6 +1276,8 @@
 93C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133027719641834713 0
 89C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\mdn-data\css\at-rules.schema.json133027719613962024 0
 93C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\svgo\plugins\moveGroupAttrsToElems.js133027719642174503 0
+86C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\svgo\plugins\preset-default.js133027719644423106 0
+81C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\csso\lib\replace\Value.js133027719647381272 0
 98C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\svgo\plugins\removeAttributesBySelector.js133027719644702930 0
 81C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@swc\helpers\src\index.js133027719663311374 0
 94C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@nodelib\fs.stat\out\providers\sync.js133027719615710947 0
@@ -1690,8 +1683,8 @@
 73C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\readdirp\index.js133027719601236353 0
 109C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\runtime-js\lib\helpers\browser\wasm-loader.js133027719642884061 0
 98C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\transformer-babel\lib\constants.js133027719621777174 0
-73C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\nan\tools\1to2.js133027719634669162 0
 113C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\react-refresh\cjs\react-refresh-runtime.production.min.js133027719612772765 0
+73C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\nan\tools\1to2.js133027719634669162 0
 125C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\bin.js133027719602715436 0
 77C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\readdirp\package.json133027719604944058 0
 100C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-dir-pseudo.js133027719661942231 0
@@ -1760,6 +1753,10 @@
 88C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\css-tree\lib\convertor\create.js133027719628842783 0
 81C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\utils\src\path.js133027719648380651 0
 85C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\posthtml-include\lib\index.js133027719602735424 0
+83C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\css-tree\lib\lexer\Lexer.js133027719653577431 0
+125C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback133027719656955320 1
+65C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\nan\tools133027719645412501 1
+81C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\transformer-image133027719614851472 1
 80C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\posthtml-expressions\lib133027719614381767 1
 84C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\htmlnano\lib\presets\safe.js133027719637007726 0
 79C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\json5\dist\index.min.js133027719610850391 0
@@ -1878,6 +1875,7 @@
 128C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\files\embed\file2.txt133027719648470598 0
 97C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\audiotracks.js133027719645082707 0
 78C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\node-gyp-build\LICENSE133027719598263895 0
+92C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\dist\cacheWrapper.js.map133027719624185690 0
 135C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\files\embed\embed2\file3.txt133027719651418776 0
 112C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files133027719647721095 1
 118C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages133027719612752779 1
@@ -1894,6 +1892,9 @@
 95C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\src\utils.js133027719625874627 0
 100C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@swc\helpers\lib\_interop_require_default.js133027719646691696 0
 128C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\files\embed\file2.txt133027719647391261 0
+98C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\fast-glob\out\providers\filters\error.d.ts133027719643213858 0
+76C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\node-addon-api\tools133027719629172580 1
+112C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV2\files133027719646591758 1
 86C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb-win32-x64\node.abi93.node133027719635898400 0
 80C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\watcher\index.js133027719641065197 0
 81C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\optimizer-css\src133027719606063366 1
@@ -2058,10 +2059,6 @@
 70C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\nan\nan_weak.h133027719628612922 0
 101C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\custom-elements.js133027719665669917 0
 69C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\nan\README.md133027719645172641 0
-83C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\css-tree\lib\lexer\Lexer.js133027719653577431 0
-125C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback133027719656955320 1
-65C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\nan\tools133027719645412501 1
-81C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\transformer-image133027719614851472 1
 72C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\escalade\license133027719598373832 0
 74C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\nan\doc\buffers.md133027719639376240 0
 75C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\nan\doc\callback.md133027719639915902 0
@@ -2234,8 +2231,8 @@
 80C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb\src\compression.cpp133027719654436886 0
 87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\regions\BI.js133027719651118971 0
 75C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb\src\cursor.cpp133027719654646756 0
-72C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb\src\env.cpp133027719655116493 0
 88C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\dist\cacheWrapper.js133027719602985272 0
+72C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb\src\env.cpp133027719655116493 0
 95C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\maxlength.js133027719671686188 0
 84C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\watcher\src\Event.hh133027719629482392 0
 88C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\htmlnano\lib\modules\minifyJs.js133027719627283759 0
@@ -2307,6 +2304,8 @@
 85C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\types\lib\unsafe.d.ts133027719615740937 0
 103C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md133027719660323235 0
 69C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\utils133027719653667370 1
+96C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133027719599327546 1
+87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\regions\HR.js133027719668937897 0
 113C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Doxyfile133027719611723433 0
 114C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\intro.doc133027719656305784 0
 112C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE133027719615930809 0
@@ -2626,6 +2625,7 @@
 87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\fast-glob\out\utils\string.d.ts133027719647830989 0
 85C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\fast-glob\out\utils\string.js133027719635638559 0
 100C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-exclusions.js133027719662551850 0
+94C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\dist\cacheWrapper.d.ts.map133027719623566063 0
 117C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\package-manager\test\fixtures\packages\a\package.json133027719646072080 0
 86C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\fast-glob\out\types\index.d.ts133027719644213246 0
 87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\fast-glob\out\readers\stream.js133027719630351850 0
@@ -3003,8 +3003,6 @@
 72C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\dist133027719644223229 1
 132C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.win32-x64-msvc.node133027719654666744 0
 77C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\README.md133027719640505545 0
-94C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\dist\cacheWrapper.d.ts.map133027719623566063 0
-92C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\dist\cacheWrapper.js.map133027719624185690 0
 86C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\dist\Explorer.d.ts133027719641404988 0
 90C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\dist\Explorer.d.ts.map133027719624715350 0
 94C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\main-global133027719664250801 1
@@ -3027,9 +3025,9 @@
 103C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.umd.js133027719603305082 0
 87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\dist\loaders.js.map133027719635768490 0
 90C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\dist\readFile.d.ts.map133027719636248189 0
-82C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\hash\index.js.flow133027719601915936 0
 84C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\dist\readFile.js133027719617180029 0
 87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\regions\CZ.js133027719665819823 0
+82C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\hash\index.js.flow133027719601915936 0
 83C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\dist\types.d.ts133027719644303186 0
 87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\dist\types.d.ts.map133027719639136386 0
 81C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\cosmiconfig\dist\types.js133027719622126952 0
@@ -3039,6 +3037,7 @@
 75C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\color-name\index.js133027719601526198 0
 89C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\packager-raw\package.json133027719608551817 0
 76C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\color-name\README.md133027719607512460 0
+71C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\03-feedback.26067de3.js133028717402399706 0
 84C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\color-convert\conversions.js133027719605913455 0
 77C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\color-convert\LICENSE133027719610060877 0
 72C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\clone\.npmignore133027719601536172 0
@@ -3064,6 +3063,7 @@
 87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\runtime-js\package.json133027719645082707 0
 77C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\chokidar\package.json133027719613282451 0
 95C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\proximity.js133027719674324533 0
+68C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\02-video.db197cb7.js133028717402409706 0
 74C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\chokidar\README.md133027719614871467 0
 95C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\objectrtc.js133027719673245207 0
 81C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\chokidar\types\index.d.ts133027719616640360 0
@@ -3085,7 +3085,7 @@
 93C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\optimizer-terser\package.json133027719608571809 0
 78C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\README.md133027719680120944 0
 92C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\dist\unpacker\agents.js133027719624625410 0
-64C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\03-feedback.html133027954531366862 0
+64C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\03-feedback.html133028717402399706 0
 94C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\dist\unpacker\browsers.js133027719653917206 0
 101C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\dist\unpacker\browserVersions.js133027719654247011 0
 91C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\dist\unpacker\index.js133027719669507547 0
@@ -3478,6 +3478,7 @@
 96C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\decorators.js133027719665949744 0
 103C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\deviceorientation.js133027719665999722 0
 99C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\dispatchevent.js133027719666059665 0
+72C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\02-video.5350991b.js.map133028717402589586 0
 92C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\dnssec.js133027719666159610 0
 98C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\do-not-track.js133027719666199598 0
 108C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\document-currentscript.js133027719666249564 0
@@ -3538,6 +3539,7 @@
 96C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\fullscreen.js133027719667998471 0
 92C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\srcset.js133027719676083444 0
 97C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\geolocation.js133027719668168360 0
+102C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\getcomputedstyle.js133027719668238343 0
 108C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\getelementsbyclassname.js133027719668258308 0
 101C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\getrandomvalues.js133027719668288284 0
 95C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\gyroscope.js133027719668638066 0
@@ -3641,6 +3643,7 @@
 84C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@types\parse-json\index.d.ts133027719605183907 0
 90C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\opus.js133027719673455089 0
 104C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\orientation-sensor.js133027719673485067 0
+68C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\02-video.5350991b.js133028717402409706 0
 99C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\pad-start-end.js133027719673565005 0
 108C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\page-transition-events.js133027719673584994 0
 108C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\passive-event-listener.js133027719673634971 0
@@ -3651,6 +3654,7 @@
 101C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\permissions-api.js133027719673784890 0
 87C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\source-map\dist\node.js133027719622047006 0
 104C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\permissions-policy.js133027719673804887 0
+81C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\hash\package.json133027719609841015 0
 94C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@mischnic\json-sourcemap\dist\index.js133027719610700479 0
 90C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\ping.js133027719673914799 0
 100C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\pointer-events.js133027719674044709 0
@@ -3750,6 +3754,7 @@
 94C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\wordwrap.js133027719679841103 0
 91C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\xhtml.js133027719679931062 0
 95C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\caniuse-lite\data\features\xhtmlsmil.js133027719679951047 0
+76C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\callsites\index.d.ts133027719601526198 0
 74C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\callsites\index.js133027719605163921 0
 73C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\callsites\license133027719607572427 0
 84C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@lezer\common\dist\index.cjs133027719606233254 0
@@ -4048,7 +4053,7 @@
 90C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\core\lib\public\Symbols.js133027719660653031 0
 112C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js.map133027719657984683 0
 105C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\utils\test\input\sourcemap\source-root.js133027719651398773 0
-63C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\01-gallery.html133027954531366862 0
+63C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\01-gallery.html133028674472071038 0
 107C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\Cargo.toml133027719655256380 0
 98C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\utils\test\input\config\empty.json133027719653557441 0
 98C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\utils\test\input\config\empty.toml133027719658164575 0
@@ -4363,7 +4368,6 @@
 90C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\logger\test\Logger.test.js133027719609081495 0
 84C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\logger\lib\Logger.js133027719603205138 0
 76C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\hash\LICENSE133027719598996745 0
-81C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\hash\package.json133027719609841015 0
 98C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\hash\parcel-hash.darwin-arm64.node133027719622176937 0
 96C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\hash\parcel-hash.darwin-x64.node133027719626184434 0
 82C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\@parcel\compressor-raw\src133027719606183287 1
@@ -4774,8 +4778,9 @@
 67C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\.bin\semver133027719698289660 0
 71C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\.bin\semver.cmd133027719698289660 0
 71C:\Users\a.vekker\Desktop\js\goit-js-hw-08\node_modules\.bin\semver.ps1133027719698289660 0
-61C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\02-video.html133027954531366862 0
-58C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\index.html133027954531366862 0
+72C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\02-video.db197cb7.js.map133028717402599577 0
+61C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\02-video.html133028717402389711 0
+58C:\Users\a.vekker\Desktop\js\goit-js-hw-08\dist\index.html133028674472071038 0
 75C:\Users\a.vekker\Desktop\js\goit-js-hw-08\assets\actions-config-step-1.png133027719037629288 0
 75C:\Users\a.vekker\Desktop\js\goit-js-hw-08\assets\actions-config-step-2.png133027719037649253 0
 66C:\Users\a.vekker\Desktop\js\goit-js-hw-08\assets\how-it-works.png133027719037685165 0

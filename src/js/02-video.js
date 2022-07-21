@@ -16,14 +16,14 @@ function savinTimeFn (data) {
 	player.on('timeupdate', throttle(savinTimeFn, 1000))
 const savedTime = localStorage.getItem(CURRENT_TIME);
 
-player.setCurrentTime(savedTime);
-//     player.setCurrentTime(savedTime).then(function(seconds) {
-// }).catch(function(error) {
-//     switch (error.name) {
-//         case 'RangeError':
-//             break;
+// player.setCurrentTime(savedTime);
+    player.setCurrentTime(savedTime).then(function(seconds) {
+}).catch(function(error) {
+    switch (error.name) {
+        case 'RangeError':
+            break;
 
-//         default:
-//             break;
-//     }
-// });
+        default:
+            break;
+    }
+});
