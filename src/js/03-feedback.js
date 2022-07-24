@@ -34,14 +34,14 @@ function handleSubmit(e) {
 function showText() {
   const savedText = localStorage.getItem(FEEDBACK_KEY);
   const parcedSavedText = JSON.parse(savedText);
-    const savedData = savedText
-    ? parcedSavedText
-    : {};
-  if (savedData.email) {
-     refs.input.value = savedData.email;
+    // const savedData = savedText
+    // ? parcedSavedText
+    // : {};
+  if (parcedSavedText.email) {
+     refs.input.value = parcedSavedText.email;
   };
-  if (savedData.message) {
-    refs.textarea.value = savedData.message;
+  if (parcedSavedText.message) {
+    refs.textarea.value = parcedSavedText.message;
   }
     };
 showText();
