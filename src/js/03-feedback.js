@@ -12,8 +12,8 @@ const refs = {
 refs.form.addEventListener("input", throttle(handleInput, 500));
 refs.form.addEventListener("submit", handleSubmit);
 
-const formData = localStorage.getItem(FEEDBACK_KEY) ? JSON.parse(localStorage.getItem(FEEDBACK_KEY)) : {};
-// const formData = {}
+let formData = localStorage.getItem(FEEDBACK_KEY) ? JSON.parse(localStorage.getItem(FEEDBACK_KEY)) : {};
+
 function handleInput(e) {
   formData[e.target.name] = e.target.value;
   const inputText = JSON.stringify(formData);
@@ -23,13 +23,12 @@ function handleInput(e) {
 function handleSubmit(e) {
   e.preventDefault();
   if (e.target.elements.email.value === "" || e.target.elements.message.value === "") {
-    alert("Заполните все поля!")
+    alert("Заполните все поля!") 
   };
   localStorage.removeItem(FEEDBACK_KEY);
   e.target.reset();
   console.log(formData);
- 
-  
+  formData = {};
   };
 
 function showText() {
@@ -46,10 +45,6 @@ function showText() {
   }
     };
 showText();
- 
-function clearObj(obj) {
-  obj === {}
-}
 //////////////////////////////////////////;
 
 // const form = document.querySelector('.feedback-form');
