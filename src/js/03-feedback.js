@@ -13,80 +13,87 @@ refs.form.addEventListener("input", throttle(handleInput, 500));
 refs.form.addEventListener("submit", handleSubmit);
 
 const formData = localStorage.getItem(FEEDBACK_KEY) ? JSON.parse(localStorage.getItem(FEEDBACK_KEY)) : {};
-
+// const formData = {}
 function handleInput(e) {
   formData[e.target.name] = e.target.value;
   const inputText = JSON.stringify(formData);
-  localStorage.setItem(FEEDBACK_KEY, JSON.stringify());
-   console.log(localStorage.setItem(FEEDBACK_KEY, inputText))
+  localStorage.setItem(FEEDBACK_KEY, inputText);
 };
 
 function handleSubmit(e) {
-    e.preventDefault();
-       if (formData.email === "" || formData.message === "") {
-         alert("Пожалуйста заполните все поля!");
+  e.preventDefault();
+  if (e.target.elements.email.value === "" || e.target.elements.message.value === "") {
+    alert("Заполните все поля!")
   };
-    localStorage.removeItem(FEEDBACK_KEY);
-    e.target.reset();
-    console.log(formData);
-   };
+  localStorage.removeItem(FEEDBACK_KEY);
+  e.target.reset();
+  console.log(formData);
+ 
+  
+  };
 
 function showText() {
   const savedText = localStorage.getItem(FEEDBACK_KEY);
   const parcedSavedText = JSON.parse(savedText);
-  if (savedText) {
-     refs.input.value = parcedSavedText.email;
+    const savedData = savedText
+    ? parcedSavedText
+    : {};
+  if (savedData.email) {
+     refs.input.value = savedData.email;
   };
-  if (savedText) {
-    refs.textarea.value = parcedSavedText.message;
+  if (savedData.message) {
+    refs.textarea.value = savedData.message;
   }
     };
- showText();
+showText();
+ 
+function clearObj(obj) {
+  obj === {}
+}
 //////////////////////////////////////////;
-// const FEEDBACK_KEY = "feedback-form-state";
 
-// const refs = {
-//     form: document.querySelector(".feedback-form"),
-//     input: document.querySelector("input"),
-//     textarea: document.querySelector("textarea"),
-//     button: document.querySelector("button")
-// };
+// const form = document.querySelector('.feedback-form');
+// const emailEl = document.querySelector('input');
+// const messageEl = document.querySelector('textarea');
+// const formData = {};
 
-// const formData = localStorage.getItem(FEEDBACK_KEY) ? JSON.parse(localStorage.getItem(FEEDBACK_KEY)) : {};
 // checkLocaleStorage();
-// refs.input.addEventListener('input', throttle(getInputValues, 500));
-// refs.textarea.addEventListener('input', throttle(getInputValues, 500));
+
+// emailEl.addEventListener('input', throttle(getInputValues, 500));
+// messageEl.addEventListener('input', throttle(getInputValues, 500));
+
 // function getInputValues(event) {
 //   event.preventDefault();
 //   const name = event.target.name;
 //   const value = event.target.value;
 //   formData[name] = value;
-//   localStorage.setItem(FEEDBACK_KEY, JSON.stringify(formData));
-//   console.log(localStorage.setItem(FEEDBACK_KEY, JSON.stringify(formData)))
-// }
-// refs.form.addEventListener('submit', sendFormData);
+//   localStorage.setItem('feedback-form-state', JSON.stringify(formData));
+// };
+
+// form.addEventListener('submit', sendFormData);
+
 // function sendFormData(event) {
 //   event.preventDefault();
 //   const email = event.target.elements.email.value;
 //   const message = event.target.elements.message.value;
 //   if (email === '' || message === '') {
-//     alert('Заполните поля');
+//     alert('Please fill in all the fields!');
 //   } else {
-//     localStorage.removeItem(FEEDBACK_KEY);
+//     localStorage.removeItem('feedback-form-state');
 //     console.log({ email, message });
-//   }
+//   };
 //   event.currentTarget.reset();
-// }
+// };
+
 // function checkLocaleStorage() {
-//   const savedData = localStorage.getItem(FEEDBACK_KEY)
-//     ? JSON.parse(localStorage.getItem(FEEDBACK_KEY))
+//   const savedData = localStorage.getItem('feedback-form-state')
+//     ? JSON.parse(localStorage.getItem('feedback-form-state'))
 //     : {};
 //   if (savedData.email) {
-//     refs.input.value = savedData.email;
+//     emailEl.value = savedData.email;
 //   }
 //   if (savedData.message) {
-//     refs.textarea.value = savedData.message;
-//   }
-// }
-
+//     messageEl.value = savedData.message;
+//   };
+// };
 
