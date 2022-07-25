@@ -12,7 +12,7 @@ const refs = {
 refs.form.addEventListener("input", throttle(handleInput, 500));
 refs.form.addEventListener("submit", handleSubmit);
 
-let formData = localStorage.getItem(FEEDBACK_KEY) ? JSON.parse(localStorage.getItem(FEEDBACK_KEY)) : {};
+let formData = JSON.parse(localStorage.getItem(FEEDBACK_KEY)) || {};
 
 function handleInput(e) {
   formData[e.target.name] = e.target.value;
@@ -22,18 +22,19 @@ function handleInput(e) {
 
 function handleSubmit(e) {
   e.preventDefault();
-  if (e.target.elements.email.value === "" || e.target.elements.message.value === "") {
-    alert("Заполните все поля!") 
+    const email = e.target.elements.email.value;
+  const message = e.target.elements.message.value;
+  if (email === "" || message === "") {
+    alert("Заполните все поля!")
   };
   localStorage.removeItem(FEEDBACK_KEY);
   e.target.reset();
-  console.log(formData);
-  formData = {};
+  console.log({email, message});
   };
 
 function showText() {
   const savedText = localStorage.getItem(FEEDBACK_KEY);
-  const parcedSavedText = JSON.parse(savedText);
+  const parcedSavedText = JSON.parse(savedText) || {}
     // const savedData = savedText
     // ? parcedSavedText
     // : {};
