@@ -25,7 +25,8 @@ function handleSubmit(e) {
     const email = e.target.elements.email.value;
   const message = e.target.elements.message.value;
   if (email === "" || message === "") {
-    alert("Заполните все поля!")
+    alert("Заполните все поля!");
+    return
   };
   localStorage.removeItem(FEEDBACK_KEY);
   e.target.reset();
