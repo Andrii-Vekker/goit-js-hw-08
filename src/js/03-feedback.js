@@ -44,9 +44,9 @@ function showText() {
   }
     };
 showText();
-<<<<<<< HEAD
 
-=======
+
+
 //////////////////////////////////////////////////////
 // const form = document.querySelector('.feedback-form');
 // const emailEl = document.querySelector('input');
@@ -95,4 +95,4 @@ showText();
 //     });
 //   }
 // }
->>>>>>> 9bb12ff578694da02f727acefbb4c9672d89a265
+
